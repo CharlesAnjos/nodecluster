@@ -1,0 +1,1 @@
+Projeto para teste de carga em cluster para a disciplina de Sistemas Distribuídos ministrada pelo prof. Manoel Campos - IFTO
