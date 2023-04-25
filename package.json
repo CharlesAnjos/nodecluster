@@ -5,7 +5,7 @@
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
-        "loadtest": "autocannon -c 5000 -d 30 -w 50 --renderStatusCodes -W [-c 1 -d 3] localhost:8000"
+        "loadtest": "autocannon -c 10000 -d 30 -w 100 --renderStatusCodes -W [-c 1 -d 3] localhost:8000"
     },
     "keywords": [],
     "author": "Charles Albert Martins dos Anjos (charles.ccomp@gmail.com)",
